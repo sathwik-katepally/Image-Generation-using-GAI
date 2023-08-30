@@ -1,2 +1,3 @@
 # Image-Generation-using-GAI
 Image Generation using Deep Convolutional Generative Adversarial Network (DCGAN) 
+GANs (Generative Adversarial Networks) are one of the most intriguing concepts in computer science today. An adversarial method trains two models at the same time. A generator ("the artist") learns to generate images that appear real, whereas a discriminator learns to distinguish between actual and fake images. During training, the generator improves at making realistic images, while the discriminator improves at identifying them apart. When the discriminator can no longer distinguish between actual and fake images, the process has reached equilibrium. MNIST dataset was used for training.
